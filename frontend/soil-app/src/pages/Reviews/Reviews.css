@@ -1,0 +1,11 @@
+.star {
+    cursor: pointer;
+    font-size: 40px; 
+    margin-right: 5px;
+}
+
+.small-star {
+    cursor: pointer;
+    font-size: 25px; 
+    margin-right: 5px;
+}

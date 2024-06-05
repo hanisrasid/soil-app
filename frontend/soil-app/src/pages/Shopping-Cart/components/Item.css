@@ -1,0 +1,32 @@
+.card-img{
+    height: 300px;
+}
+
+.link-decoration{
+    text-decoration: none;
+}
+
+p{
+    color: black;
+}
+
+.small-img{
+    width: 100px;
+}
+
+input {
+    width:100%;
+}
+
+.item-button {
+    margin: 0.5rem auto 0.5rem 1.0rem;
+    padding: 5px 7px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+    width: 40%;
+    font-size: small;
+    color: white;
+    background-color: darkred;
+}
+
